@@ -1,6 +1,6 @@
 Explanation of this code, 
 
-For this solution I have stored the information saved by a user in a SQL database. The information is then retrieved and displayed in the table 
+For this solution I have stored the information saved by a user in a SQL database. The information is then retrieved and displayed in the table.
 I have chosen to use Bootstrap as a front-end web framework for this test. The reason I have chosen to use bootstrap is that it easily provides stylish CSS as well as responsive design for a website.
 The buttons which select different customer options (Citizen, Organisation, and Anonymous) utilise JavaScript to load different form content into the form depending on which customer type the user is inputting. I have decided to use this feature because it prevents the page from reloading and resetting the user selected service requirement
 JavaScript is also used to hide the submit button unless some data has been inputted into input textboxes. This has been utilised to prevent accidental submission of blank input. 
